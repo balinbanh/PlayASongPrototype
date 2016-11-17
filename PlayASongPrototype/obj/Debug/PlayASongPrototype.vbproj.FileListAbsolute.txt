@@ -1,0 +1,33 @@
+C:\Users\Balin Banh\AppData\Local\Temporary Projects\PlayASongPrototype\bin\Debug\PlayASongPrototype.exe.config
+F:\Users\Balin Banh\Documents\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\bin\Debug\PlayASongPrototype.exe.config
+F:\Users\Balin Banh\Documents\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.vbprojResolveAssemblyReference.cache
+F:\Users\Balin Banh\Documents\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.Main.resources
+F:\Users\Balin Banh\Documents\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.LoginScreen.resources
+F:\Users\Balin Banh\Documents\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.Resources.resources
+F:\Users\Balin Banh\Documents\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.resources1.resources
+F:\Users\Balin Banh\Documents\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.vbproj.GenerateResource.Cache
+F:\Users\Balin Banh\Documents\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.xml
+F:\Users\Balin Banh\Documents\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\bin\Debug\PlayASongPrototype.exe
+F:\Users\Balin Banh\Documents\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\bin\Debug\PlayASongPrototype.pdb
+F:\Users\Balin Banh\Documents\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\bin\Debug\PlayASongPrototype.xml
+F:\Users\Balin Banh\Documents\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.exe
+F:\Users\Balin Banh\Documents\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.pdb
+F:\Users\Balin Banh\Documents\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.musicResources.resources
+Z:\CPS530Prototype-master\PlayASongPrototype\PlayASongPrototype\bin\Debug\PlayASongPrototype.exe.config
+Z:\CPS530Prototype-master\PlayASongPrototype\PlayASongPrototype\bin\Debug\PlayASongPrototype.exe
+Z:\CPS530Prototype-master\PlayASongPrototype\PlayASongPrototype\bin\Debug\PlayASongPrototype.pdb
+Z:\CPS530Prototype-master\PlayASongPrototype\PlayASongPrototype\bin\Debug\PlayASongPrototype.xml
+Z:\CPS530Prototype-master\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.vbprojResolveAssemblyReference.cache
+Z:\CPS530Prototype-master\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.Main.resources
+Z:\CPS530Prototype-master\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.LoginScreen.resources
+Z:\CPS530Prototype-master\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.musicResources.resources
+Z:\CPS530Prototype-master\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.Resources.resources
+Z:\CPS530Prototype-master\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.resources1.resources
+Z:\CPS530Prototype-master\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.vbproj.GenerateResource.Cache
+Z:\CPS530Prototype-master\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.exe
+Z:\CPS530Prototype-master\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.xml
+Z:\CPS530Prototype-master\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.pdb
+Z:\CPS530Prototype-master\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\bin\Debug\PlayASongPrototype.exe.config
+Z:\CPS530Prototype-master\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.exe
+Z:\CPS530Prototype-master\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.xml
+Z:\CPS530Prototype-master\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.pdb
