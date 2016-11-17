@@ -1,4 +1,4 @@
-﻿Public Class Main
+﻿Public Class MainForm
     Private Sub LoginScreen_Load(sender As Object, e As EventArgs) Handles LoginScreen.Load
         Dim showTimer As New Timer
         Dim counter As Integer = 0

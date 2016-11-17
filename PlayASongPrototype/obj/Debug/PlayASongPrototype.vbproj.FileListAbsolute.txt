@@ -61,3 +61,15 @@ C:\Users\corey\Source\Repos\PlayASongPrototype\PlayASongPrototype\obj\Debug\Play
 C:\Users\corey\Source\Repos\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.Resources.resources
 C:\Users\corey\Source\Repos\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.resources1.resources
 C:\Users\corey\Source\Repos\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.vbproj.GenerateResource.Cache
+Z:\CPS530Prototype-master\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\bin\Debug\PlayASongPrototype.exe
+Z:\CPS530Prototype-master\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\bin\Debug\PlayASongPrototype.pdb
+Z:\CPS530Prototype-master\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\bin\Debug\PlayASongPrototype.xml
+Z:\CPS530Prototype-master\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.vbprojResolveAssemblyReference.cache
+Z:\CPS530Prototype-master\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.Brandon.resources
+Z:\CPS530Prototype-master\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.MainForm.resources
+Z:\CPS530Prototype-master\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.LoginScreen.resources
+Z:\CPS530Prototype-master\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.musicResources.resources
+Z:\CPS530Prototype-master\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.Resources.resources
+Z:\CPS530Prototype-master\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.resources1.resources
+Z:\CPS530Prototype-master\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.vbproj.GenerateResource.Cache
+Z:\CPS530Prototype-master\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.WorkingArea.resources

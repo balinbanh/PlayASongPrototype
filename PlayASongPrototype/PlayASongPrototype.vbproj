@@ -116,6 +116,12 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>resources1.resx</DependentUpon>
     </Compile>
+    <Compile Include="WorkingArea.Designer.vb">
+      <DependentUpon>WorkingArea.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WorkingArea.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Form1.resx">
@@ -142,6 +148,9 @@
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>resources1.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WorkingArea.resx">
+      <DependentUpon>WorkingArea.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
