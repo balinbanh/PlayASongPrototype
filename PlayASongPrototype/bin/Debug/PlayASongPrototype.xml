@@ -6,6 +6,32 @@ PlayASongPrototype
 </name>
 </assembly>
 <members>
+<member name="T:PlayASongPrototype.My.Resources.musicControlImages">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:PlayASongPrototype.My.Resources.musicControlImages.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:PlayASongPrototype.My.Resources.musicControlImages.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:PlayASongPrototype.My.Resources.musicControlImages.pausebutton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PlayASongPrototype.My.Resources.musicControlImages.playbutton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="T:PlayASongPrototype.My.Resources.musicResources">
 <summary>
   A strongly-typed resource class, for looking up localized strings, etc.
@@ -80,6 +106,47 @@ PlayASongPrototype
 </summary>
 </member>
 <member name="P:PlayASongPrototype.My.Resources.resources1.music_notes">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:PlayASongPrototype.My.Resources.songPictures">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:PlayASongPrototype.My.Resources.songPictures.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:PlayASongPrototype.My.Resources.songPictures.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:PlayASongPrototype.My.Resources.songPictures.blacksheep">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PlayASongPrototype.My.Resources.songPictures.bus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PlayASongPrototype.My.Resources.songPictures.happy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PlayASongPrototype.My.Resources.songPictures.littlelamb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PlayASongPrototype.My.Resources.songPictures.monkeys">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>

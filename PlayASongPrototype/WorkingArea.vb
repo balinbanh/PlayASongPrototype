@@ -5,7 +5,7 @@
     Dim playlistsongs As New List(Of List(Of String)) 'list of song lists'
 
 
-    Private Sub createPlaylist(ByVal playlistName As String)
+    Private Sub createPlaylist(ByVal playlistName As String, ByVal playlistImage As String)
         If playlistnames.Contains(playlistName) Then
             playlistnames.Add(playlistName)
         End If
@@ -31,10 +31,10 @@
     End Sub
 
     Private Sub WorkingArea_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        songs.Add("babablcksheep", "")
-        songs.Add("littleMonkeys", "")
-        songs.Add("happy", "")
-        songs.Add("maryLittleLamb", "")
-        songs.Add("wheels", "")
+        songs.Add("babablacksheep", "blacksheep")
+        songs.Add("littleMonkeys", "monkeys")
+        songs.Add("happy", "happy")
+        songs.Add("maryLittleLamb", "littlelamb")
+        songs.Add("wheels", "bus")
     End Sub
 End Class

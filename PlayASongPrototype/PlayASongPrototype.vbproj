@@ -79,6 +79,11 @@
     <Compile Include="Form1.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="musicControlImages.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>musicControlImages.resx</DependentUpon>
+    </Compile>
     <Compile Include="Prototype.Designer.vb">
       <DependentUpon>Prototype.vb</DependentUpon>
     </Compile>
@@ -116,6 +121,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>resources1.resx</DependentUpon>
     </Compile>
+    <Compile Include="songPictures.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>songPictures.resx</DependentUpon>
+    </Compile>
     <Compile Include="WorkingArea.Designer.vb">
       <DependentUpon>WorkingArea.vb</DependentUpon>
     </Compile>
@@ -126,6 +136,11 @@
   <ItemGroup>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="musicControlImages.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>musicControlImages.Designer.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Prototype.resx">
       <DependentUpon>Prototype.vb</DependentUpon>
@@ -148,6 +163,11 @@
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>resources1.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="songPictures.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>songPictures.Designer.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="WorkingArea.resx">
       <DependentUpon>WorkingArea.vb</DependentUpon>
@@ -182,6 +202,27 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\wheels.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blacksheep.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\happy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\littlelamb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monkeys.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pausebutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playbutton.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

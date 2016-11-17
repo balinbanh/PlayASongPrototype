@@ -73,3 +73,5 @@ Z:\CPS530Prototype-master\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\
 Z:\CPS530Prototype-master\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.resources1.resources
 Z:\CPS530Prototype-master\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.vbproj.GenerateResource.Cache
 Z:\CPS530Prototype-master\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.WorkingArea.resources
+Z:\CPS530Prototype-master\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.musicControlImages.resources
+Z:\CPS530Prototype-master\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.songPictures.resources
