@@ -48,27 +48,27 @@ PlayASongPrototype
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
-<member name="P:PlayASongPrototype.My.Resources.musicImages.blacksheep">
+<member name="P:PlayASongPrototype.My.Resources.musicImages.babablacksheep">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:PlayASongPrototype.My.Resources.musicImages.bus">
+<member name="P:PlayASongPrototype.My.Resources.musicImages.happy">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:PlayASongPrototype.My.Resources.musicImages.giraffe">
+<member name="P:PlayASongPrototype.My.Resources.musicImages.littleMonkeys">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:PlayASongPrototype.My.Resources.musicImages.littlelamb">
+<member name="P:PlayASongPrototype.My.Resources.musicImages.maryLittleLamb">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:PlayASongPrototype.My.Resources.musicImages.monkeys">
+<member name="P:PlayASongPrototype.My.Resources.musicImages.wheels">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>

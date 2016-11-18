@@ -23,7 +23,7 @@ Partial Class MainForm
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.LoginScreen = New PlayASongPrototype.LoginScreen()
-        'Me.SongScreen1 = New PlayASongPrototype.songScreen()
+        Me.DisplayPanel1 = New PlayASongPrototype.displayPanel()
         Me.SuspendLayout()
         '
         'LoginScreen
@@ -35,26 +35,27 @@ Partial Class MainForm
         Me.LoginScreen.Size = New System.Drawing.Size(1280, 1024)
         Me.LoginScreen.TabIndex = 0
         '
-        'SongScreen1
+        'DisplayPanel1
         '
-        'Me.SongScreen1.Location = New System.Drawing.Point(-7, -3)
-        'Me.SongScreen1.Name = "SongScreen1"
-        'Me.SongScreen1.Size = New System.Drawing.Size(1024, 768)
-        'Me.SongScreen1.TabIndex = 1
+        Me.DisplayPanel1.Location = New System.Drawing.Point(89, 12)
+        Me.DisplayPanel1.Name = "DisplayPanel1"
+        Me.DisplayPanel1.Size = New System.Drawing.Size(1024, 768)
+        Me.DisplayPanel1.TabIndex = 1
         '
         'MainForm
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(1264, 986)
-        'Me.Controls.Add(Me.SongScreen1)
         Me.Controls.Add(Me.LoginScreen)
-        'Me.Name = "MainForm"
+        Me.Controls.Add(Me.DisplayPanel1)
+        Me.Name = "MainForm"
         Me.Text = "PlayASong"
         Me.ResumeLayout(False)
 
     End Sub
 
     Friend WithEvents LoginScreen As LoginScreen
+    Friend WithEvents DisplayPanel1 As displayPanel
     'Friend WithEvents SongScreen1 As songScreen
 End Class

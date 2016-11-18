@@ -72,6 +72,12 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="displayPanel.Designer.vb">
+      <DependentUpon>displayPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="displayPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Include="mediaImages.Designer.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -126,6 +132,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="displayPanel.resx">
+      <DependentUpon>displayPanel.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="mediaImages.resx">
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <Generator>ResXFileCodeGenerator</Generator>
@@ -223,6 +232,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\favourite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\happy.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

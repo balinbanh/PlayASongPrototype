@@ -67,9 +67,9 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
-        Friend Shared ReadOnly Property blacksheep() As System.Drawing.Bitmap
+        Friend Shared ReadOnly Property babablacksheep() As System.Drawing.Bitmap
             Get
-                Dim obj As Object = ResourceManager.GetObject("blacksheep", resourceCulture)
+                Dim obj As Object = ResourceManager.GetObject("babablacksheep", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property
@@ -77,9 +77,9 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
-        Friend Shared ReadOnly Property bus() As System.Drawing.Bitmap
+        Friend Shared ReadOnly Property happy() As System.Drawing.Bitmap
             Get
-                Dim obj As Object = ResourceManager.GetObject("bus", resourceCulture)
+                Dim obj As Object = ResourceManager.GetObject("happy", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property
@@ -87,9 +87,9 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
-        Friend Shared ReadOnly Property giraffe() As System.Drawing.Bitmap
+        Friend Shared ReadOnly Property littleMonkeys() As System.Drawing.Bitmap
             Get
-                Dim obj As Object = ResourceManager.GetObject("giraffe", resourceCulture)
+                Dim obj As Object = ResourceManager.GetObject("littleMonkeys", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property
@@ -97,9 +97,9 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
-        Friend Shared ReadOnly Property littlelamb() As System.Drawing.Bitmap
+        Friend Shared ReadOnly Property maryLittleLamb() As System.Drawing.Bitmap
             Get
-                Dim obj As Object = ResourceManager.GetObject("littlelamb", resourceCulture)
+                Dim obj As Object = ResourceManager.GetObject("maryLittleLamb", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property
@@ -107,9 +107,9 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
-        Friend Shared ReadOnly Property monkeys() As System.Drawing.Bitmap
+        Friend Shared ReadOnly Property wheels() As System.Drawing.Bitmap
             Get
-                Dim obj As Object = ResourceManager.GetObject("monkeys", resourceCulture)
+                Dim obj As Object = ResourceManager.GetObject("wheels", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property

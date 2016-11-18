@@ -30,3 +30,4 @@ Z:\CPS530Prototype-master\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\
 Z:\CPS530Prototype-master\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.mediaImages.resources
 Z:\CPS530Prototype-master\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.musicImages.resources
 Z:\CPS530Prototype-master\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.playlistImages.resources
+Z:\CPS530Prototype-master\CPS530Prototype\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.displayPanel.resources
