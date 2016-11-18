@@ -47,6 +47,8 @@
 
     Public Sub setSongSelect()
         Label1.Text = selectedCategory
+        'insert if statement, if selected is category, go to a play function, else run code below
+
         Dim currentPlaylist As List(Of String) = playlists.Item(selectedCategory)
         Dim currentloc As Integer = 0
 
