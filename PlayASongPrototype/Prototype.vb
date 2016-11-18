@@ -11,5 +11,6 @@
                                            LoginScreen.Visible = False
                                        End If
                                    End Sub
+
     End Sub
 End Class

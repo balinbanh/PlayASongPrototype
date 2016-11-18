@@ -72,17 +72,20 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="coreys_class.vb" />
-    <Compile Include="Form1.Designer.vb">
-      <DependentUpon>Form1.vb</DependentUpon>
-    </Compile>
-    <Compile Include="Form1.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="musicControlImages.Designer.vb">
+    <Compile Include="mediaImages.Designer.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>musicControlImages.resx</DependentUpon>
+      <DependentUpon>mediaImages.resx</DependentUpon>
+    </Compile>
+    <Compile Include="musicImages.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>musicImages.resx</DependentUpon>
+    </Compile>
+    <Compile Include="playlistImages.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>playlistImages.resx</DependentUpon>
     </Compile>
     <Compile Include="Prototype.Designer.vb">
       <DependentUpon>Prototype.vb</DependentUpon>
@@ -121,26 +124,22 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>resources1.resx</DependentUpon>
     </Compile>
-    <Compile Include="songPictures.Designer.vb">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>songPictures.resx</DependentUpon>
-    </Compile>
-    <Compile Include="WorkingArea.Designer.vb">
-      <DependentUpon>WorkingArea.vb</DependentUpon>
-    </Compile>
-    <Compile Include="WorkingArea.vb">
-      <SubType>Form</SubType>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="musicControlImages.resx">
+    <EmbeddedResource Include="mediaImages.resx">
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>musicControlImages.Designer.vb</LastGenOutput>
+      <LastGenOutput>mediaImages.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="musicImages.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>musicImages.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="playlistImages.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>playlistImages.Designer.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Prototype.resx">
       <DependentUpon>Prototype.vb</DependentUpon>
@@ -163,14 +162,6 @@
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>resources1.Designer.vb</LastGenOutput>
-    </EmbeddedResource>
-    <EmbeddedResource Include="songPictures.resx">
-      <CustomToolNamespace>My.Resources</CustomToolNamespace>
-      <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>songPictures.Designer.vb</LastGenOutput>
-    </EmbeddedResource>
-    <EmbeddedResource Include="WorkingArea.resx">
-      <DependentUpon>WorkingArea.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
@@ -207,7 +198,10 @@
     <None Include="Resources\blacksheep.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\happy.jpg" />
+    <None Include="Resources\bus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giraffe.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\littlelamb.jpg" />
@@ -216,13 +210,19 @@
     <None Include="Resources\monkeys.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\bus.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\pausebutton.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\playbutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addPlaylist.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\allSongs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\favourite.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
