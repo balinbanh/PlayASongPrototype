@@ -35,3 +35,7 @@ C:\Users\yeroc\Source\Repos\PlayASongPrototype\PlayASongPrototype\bin\Debug\Play
 C:\Users\yeroc\Source\Repos\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.exe
 C:\Users\yeroc\Source\Repos\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.xml
 C:\Users\yeroc\Source\Repos\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.pdb
+C:\Users\Brandon\Source\Repos\PlayASongPrototype\PlayASongPrototype\bin\Debug\PlayASongPrototype.exe.config
+C:\Users\Brandon\Source\Repos\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.exe
+C:\Users\Brandon\Source\Repos\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.xml
+C:\Users\Brandon\Source\Repos\PlayASongPrototype\PlayASongPrototype\obj\Debug\PlayASongPrototype.pdb
